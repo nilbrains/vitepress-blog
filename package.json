@@ -10,6 +10,9 @@
 		"build": "vitepress build ./",
 		"preview": "vitepress preview ./"
 	},
+	"dependencies": {
+		"vitepress-theme-async": "latest"
+	},
 	"directories": {
 		"doc": "docs"
 	},
