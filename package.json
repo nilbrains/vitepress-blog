@@ -1,0 +1,22 @@
+{
+	"name": "vitepress-blog",
+	"version": "1.0.0",
+	"private": true,
+	"author": "NilBrains",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"dev": "vitepress dev ./",
+		"build": "vitepress build ./",
+		"preview": "vitepress preview ./"
+	},
+	"directories": {
+		"doc": "docs"
+	},
+	"devDependencies": {
+		"@types/node": "^22.14.1",
+		"typescript": "^5.1.6",
+		"vite": "^6.3.2",
+		"vitepress": "^1.1.0"
+	}
+}
