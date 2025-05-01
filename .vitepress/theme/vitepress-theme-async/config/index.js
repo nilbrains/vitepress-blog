@@ -482,7 +482,7 @@ var defaultConfig = {
       license: "by-nc-sa",
       language: "deed.zh-hans",
       post: true,
-      clipboard: false
+      clipboard: true
     },
     outline: {
       level: [2, 3],
